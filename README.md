@@ -59,8 +59,8 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=EakubIslam&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <!-- GitHub Stats (includes private & all commits) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=EakubIslam&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="GitHub Stats" height="160"/>
 
   <!-- Top Languages (excluding profile repo) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EakubIslam&exclude_repo=eakub27&layout=compact&theme=radical" alt="Top Languages" height="160"/>
@@ -69,5 +69,5 @@
 <p align="center">
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EakubIslam&theme=radical" alt="GitHub Streak Stats"/>
-</p> 
+</p>
 
