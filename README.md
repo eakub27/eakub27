@@ -1,5 +1,5 @@
 <h1 align="center">Hi.. I'm Md Eakub Islam </h1>
-<h3 align="center">Junior Software Engineer @ Bdjobs.com </h3>
+<h3 align="center">Junior Software Engineer @Bdjobs.com </h3>
 <h3 align="center">Dept. of CSTE, Noakhali Science and Technology University</h3>
 <br>
 
