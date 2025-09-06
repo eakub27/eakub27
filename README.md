@@ -71,3 +71,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EakubIslam&theme=radical" alt="GitHub Streak Stats"/>
 </p>
 
+<p align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EakubIslam&theme=radical" alt="Contribution Graph"/>
+</p>
