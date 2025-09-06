@@ -1,0 +1,11 @@
+# Ignore markdown files from language stats
+*.md linguist-documentation
+
+# Ignore SVG/icon files from language stats
+*.svg linguist-vendored
+
+# Ignore images (png, jpg, gif, etc.) from stats
+*.png linguist-vendored
+*.jpg linguist-vendored
+*.jpeg linguist-vendored
+*.gif linguist-vendored
