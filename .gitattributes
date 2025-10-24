@@ -10,3 +10,7 @@
 *.jpeg linguist-vendored
 *.gif linguist-vendored
 
+*.js linguist-vendored
+*.java linguist-vendored
+*.py linguist-vendored
+
