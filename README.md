@@ -64,7 +64,7 @@
 
   <!-- Top Languages (excluding profile repo) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EakubIslam&exclude_repo=eakub27&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
+</p> 
 
 <p align="center">
   <!-- Streak Stats -->
