@@ -56,13 +56,25 @@
   </a>
 </p>
 
-### 💻 My Tech Stack
+### 📊 GitHub Stats & Activity
 
-**Primary Languages & Frameworks**
-![C#](https://img.shields.io/badge/C%23-80%25-239120?style=flat-square&logo=c-sharp)
-![.NET](https://img.shields.io/badge/.NET-75%25-512BD4?style=flat-square&logo=dotnet)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-70%25-512BD4?style=flat-square)
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=EakubIslam&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide=issues&hide_border=true" alt="GitHub Stats" height="160"/>
 
-**Databases**
-![SQL Server](https://img.shields.io/badge/SQL%20Server-65%25-CC2927?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-40%25-47A248?style=flat-square)
+  <!-- Top Languages - Override to show C# focus -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EakubIslam&layout=compact&theme=radical&hide_border=true&hide=java,javascript,python&exclude_repo=EakubIslam,EakubIslam.github.io" alt="Top Languages" height="160"/>
+</p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EakubIslam&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
+
+### 🎯 Primary Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
