@@ -66,11 +66,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EakubIslam&layout=compact&theme=radical&hide_border=true&hide=java,javascript,python&exclude_repo=EakubIslam,EakubIslam.github.io" alt="Top Languages" height="160"/>
 </p>
 
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EakubIslam&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
-
 ### 🎯 Primary Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
