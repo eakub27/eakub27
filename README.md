@@ -56,16 +56,12 @@
   </a>
 </p>
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats 
 
 <p align="center">
   <!-- Top Languages - Override to show C# focus -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EakubIslam&layout=compact&theme=radical&hide_border=true&hide=java,javascript,python&exclude_repo=EakubIslam,EakubIslam.github.io" alt="Top Languages" height="160"/>
-  
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=EakubIslam&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide=issues&hide_border=true" alt="GitHub Stats" height="160"/>
 
-</p>
 
 ### 🎯 Primary Tech Stack
 <p align="center">
